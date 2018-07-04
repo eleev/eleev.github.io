@@ -1,10 +1,10 @@
-# vadymmarkov.github.io
+# jvirus.github.io
 
 A simple portfolio static website built in Jekyll.
 
 ## Author
 
-Vadym Markov, markov.vadym@gmail.com
+[Astemir Eleev](https://github.io/jvirus)
 
 ## Credits
 
@@ -12,4 +12,4 @@ Credits for inspiration go to https://github.com/nrandecker/particle Jekyll them
 
 ## License
 
-**vadymmarkov.github.io** is available under the MIT license. See the [LICENSE](https://github.com/vadymmarkov/When/blob/master/LICENSE.md) file for more info.
+**jvirus.github.io** is available under the MIT license. See the [LICENSE]() file for more info.
