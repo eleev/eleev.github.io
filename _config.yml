@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+exclude:
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - vendor
