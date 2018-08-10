@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded",function()
 	{
-		for(var e=document.getElementById("sound-bars"),n=0;n<100;n++)
+		for(var e=document.getElementById("sound-bars"),n=0;n<200;n++)
 			{
 				var a=document.createElement("div");
 				e.appendChild(a)
