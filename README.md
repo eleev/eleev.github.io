@@ -1,4 +1,4 @@
-# jVirus.github.io
+# jvirus.github.io
 A simple portfolio static website built in `Jekyll`.
 
 # 👨‍💻 Author
