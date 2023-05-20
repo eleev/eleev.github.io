@@ -8,4 +8,4 @@ A simple portfolio static website built in `Jekyll`.
 Credits for inspiration go to https://github.com/nrandecker/particle Jekyll theme.
 
 # 🔖 License
-**jvirus.github.io** is available under the MIT license. See the [LICENSE]() file for more info.
+**eleev.github.io** is available under the MIT license. See the [LICENSE]() file for more info.
