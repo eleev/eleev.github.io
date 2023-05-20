@@ -1,8 +1,8 @@
-# jvirus.github.io
+# eleev.github.io
 A simple portfolio static website built in `Jekyll`.
 
 # 👨‍💻 Author
-[Astemir Eleev](https://github.io/jvirus)
+[Astemir Eleev](https://github.io/eleev)
 
 # ✍️ Credits
 Credits for inspiration go to https://github.com/nrandecker/particle Jekyll theme.
